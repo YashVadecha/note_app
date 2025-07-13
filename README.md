@@ -1,16 +1,22 @@
 # note_app
 
-A new Flutter project.
+A simple and elegant note-taking Flutter app built using **sqflite** for local storage and **Provider** for state management.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+##  Features
 
-A few resources to get you started if this is your first Flutter project:
+-  Add, View, Edit, and Delete Notes (CRUD operations)
+-  Local data storage with SQLite
+-  State Management with Provider
+-  Clean and organized project structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## App overvie
+flutter --version 3.19.6
+
+
+##Setup Instructions
+flutter pub get
+flutter run
+iva-kcdr-nxa
